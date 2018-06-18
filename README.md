@@ -1,2 +1,2 @@
 # simplan
-task planning mad simple
+task planning made simple
